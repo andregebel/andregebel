@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andregebel
-- 👀 I’m interested in Hybrid IT
-- 🌱 I’m currently learning Azure Stack HCI
+- 👀 I’m interested in Hybrid Cloud
+- 🌱 I’m currently learning Azure Local
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
